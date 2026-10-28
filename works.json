@@ -238,5 +238,15 @@
   "file": "media/k-chaadaevu.mp3",
   "poster": "media/k-chaadaevu.jpg",
   "duration": "4:49"
+ },
+ {
+  "id": "triumfalnaya-ploshchad",
+  "title": "Триумфальная площадь",
+  "desc": "Студия «Sergius Experementum»",
+  "added": "2026-10-28T20:53:00.000Z",
+  "kind": "video",
+  "file": "media/triumfalnaya-ploshchad.mp4",
+  "poster": "media/triumfalnaya-ploshchad.jpg",
+  "duration": "1:07"
  }
 ]
