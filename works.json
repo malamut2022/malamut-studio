@@ -2046,5 +2046,15 @@
   "file": "media/skvoz-veka.mp4",
   "poster": "media/skvoz-veka.jpg",
   "duration": "0:10"
+ },
+ {
+  "id": "teatr-praktika",
+  "title": "Театр «Практика»",
+  "desc": "Шёл 2005 год, октябрь, 7-го дня",
+  "added": "2026-10-29T10:58:00.000Z",
+  "kind": "video",
+  "file": "media/teatr-praktika.mp4",
+  "poster": "media/teatr-praktika.jpg",
+  "duration": "1:34"
  }
 ]
