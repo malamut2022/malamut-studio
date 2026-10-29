@@ -196,3 +196,5 @@ html.splashing, html.splashing body { overflow: hidden; }
 #grid-obrazy .thumb img, #grid-obrazy .thumb video { object-position: center 30%; }
 @media (max-width: 860px) { #grid-obrazy { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 @media (max-width: 560px) { #grid-obrazy { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px 14px; } #grid-obrazy .work h3 { font-size: 15px; } }
+
+.section-motto { margin: 0; font-family: var(--f-text); font-style: italic; font-size: clamp(16px, 2vw, 20px); color: var(--mist); flex-basis: 100%; }
