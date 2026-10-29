@@ -2066,5 +2066,15 @@
   "file": "media/v-gostyakh-u-skazki.mp4",
   "poster": "media/v-gostyakh-u-skazki.jpg",
   "duration": "3:01"
+ },
+ {
+  "id": "zhivopis",
+  "title": "Живопись",
+  "desc": "Картины — Галина Арсентьева",
+  "added": "2026-10-29T12:08:00.000Z",
+  "kind": "video",
+  "file": "media/zhivopis.mp4",
+  "poster": "media/zhivopis.jpg",
+  "duration": "2:27"
  }
 ]
