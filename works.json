@@ -509,26 +509,6 @@
   "file": "media/italia.jpg"
  },
  {
-  "id": "usadba",
-  "title": "Усадьба",
-  "desc": "",
-  "added": "2026-10-29T06:33:00.000Z",
-  "kind": "video",
-  "file": "media/usadba.mp4",
-  "poster": "media/usadba.jpg",
-  "duration": "0:10"
- },
- {
-  "id": "u-samovara",
-  "title": "У самовара",
-  "desc": "",
-  "added": "2026-10-29T06:34:00.000Z",
-  "kind": "video",
-  "file": "media/u-samovara.mp4",
-  "poster": "media/u-samovara.jpg",
-  "duration": "0:10"
- },
- {
   "id": "polina-vremya",
   "title": "Полина. Программа «Время»",
   "desc": "",
