@@ -537,5 +537,21 @@
   "file": "media/polina-vremya.mp4",
   "poster": "media/polina-vremya.jpg",
   "duration": "0:56"
+ },
+ {
+  "id": "polnoch-v-lesu",
+  "title": "Полночь в лесу",
+  "desc": "",
+  "added": "2026-10-29T06:47:00.000Z",
+  "kind": "image",
+  "file": "media/polnoch-v-lesu.jpg"
+ },
+ {
+  "id": "zakat-s-zontikom",
+  "title": "Закат с зонтиком",
+  "desc": "",
+  "added": "2026-10-29T06:48:00.000Z",
+  "kind": "image",
+  "file": "media/zakat-s-zontikom.jpg"
  }
 ]
