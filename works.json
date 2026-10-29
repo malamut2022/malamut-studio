@@ -259,5 +259,125 @@
   "file": "media/volna.mp4",
   "poster": "media/volna.jpg",
   "duration": "0:46"
+ },
+ {
+  "id": "elle-marche-dans-paris",
+  "title": "Elle marche dans Paris",
+  "desc": "",
+  "added": "2026-10-29T06:30:00.000Z",
+  "kind": "audio",
+  "file": "media/elle-marche-dans-paris.mp3",
+  "poster": "media/elle-marche-dans-paris.jpg",
+  "duration": "2:42"
+ },
+ {
+  "id": "elle-passe-dans-paris-1960",
+  "title": "Elle passe dans Paris",
+  "desc": "Studio 1960",
+  "added": "2026-10-29T06:31:00.000Z",
+  "kind": "audio",
+  "file": "media/elle-passe-dans-paris-1960.mp3",
+  "poster": "media/elle-passe-dans-paris-1960.jpg",
+  "duration": "2:50"
+ },
+ {
+  "id": "mein-engel",
+  "title": "Mein Engel",
+  "desc": "",
+  "added": "2026-10-29T06:32:00.000Z",
+  "kind": "audio",
+  "file": "media/mein-engel.mp3",
+  "poster": "media/mein-engel.jpg",
+  "duration": "4:40"
+ },
+ {
+  "id": "pismo",
+  "title": "Письмо",
+  "desc": "",
+  "added": "2026-10-29T06:33:00.000Z",
+  "kind": "audio",
+  "file": "media/pismo.mp3",
+  "poster": "media/pismo.jpg",
+  "duration": "3:29"
+ },
+ {
+  "id": "ya-k-tebe-nikogda",
+  "title": "Я к тебе никогда не вернусь",
+  "desc": "",
+  "added": "2026-10-29T06:34:00.000Z",
+  "kind": "audio",
+  "file": "media/ya-k-tebe-nikogda.mp3",
+  "poster": "media/ya-k-tebe-nikogda.jpg",
+  "duration": "1:49"
+ },
+ {
+  "id": "primavera",
+  "title": "Primavera",
+  "desc": "",
+  "added": "2026-10-29T06:35:00.000Z",
+  "kind": "audio",
+  "file": "media/primavera.mp3",
+  "poster": "media/primavera.jpg",
+  "duration": "2:58"
+ },
+ {
+  "id": "primavera-solo-tu",
+  "title": "Primavera Solo Tú",
+  "desc": "",
+  "added": "2026-10-29T06:36:00.000Z",
+  "kind": "audio",
+  "file": "media/primavera-solo-tu.mp3",
+  "poster": "media/primavera-solo-tu.jpg",
+  "duration": "3:14"
+ },
+ {
+  "id": "un-nouvel-univers-fr",
+  "title": "Un Nouvel Univers",
+  "desc": "Version française",
+  "added": "2026-10-29T06:37:00.000Z",
+  "kind": "audio",
+  "file": "media/un-nouvel-univers-fr.mp3",
+  "poster": "media/un-nouvel-univers-fr.jpg",
+  "duration": "2:44"
+ },
+ {
+  "id": "un-nuovo-universo",
+  "title": "Un Nuovo Universo",
+  "desc": "Variazione",
+  "added": "2026-10-29T06:38:00.000Z",
+  "kind": "audio",
+  "file": "media/un-nuovo-universo.mp3",
+  "poster": "media/un-nuovo-universo.jpg",
+  "duration": "2:55"
+ },
+ {
+  "id": "holyday",
+  "title": "Holyday",
+  "desc": "",
+  "added": "2026-10-29T06:39:00.000Z",
+  "kind": "audio",
+  "file": "media/holyday.mp3",
+  "poster": "media/holyday.jpg",
+  "duration": "3:32"
+ },
+ {
+  "id": "poka-svoboday-gorim",
+  "title": "Пока свободою горим",
+  "desc": "",
+  "added": "2026-10-29T06:40:00.000Z",
+  "kind": "audio",
+  "file": "media/poka-svoboday-gorim.mp3",
+  "poster": "media/poka-svoboday-gorim.jpg",
+  "duration": "4:53"
+ },
+ {
+  "id": "borodino-pesnya",
+  "title": "Бородино",
+  "desc": "Песня",
+  "added": "2026-10-29T06:41:00.000Z",
+  "kind": "audio",
+  "file": "media/borodino-pesnya.mp3",
+  "poster": "media/borodino-pesnya.jpg",
+  "duration": "6:14"
  }
 ]
