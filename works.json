@@ -232,7 +232,7 @@
  {
   "id": "k-chaadaevu",
   "title": "К Чаадаеву",
-  "desc": "",
+  "desc": "На стихи А. С. Пушкина «К Чаадаеву» (1818)",
   "added": "2026-10-28T19:40:00.000Z",
   "kind": "audio",
   "file": "media/k-chaadaevu.mp3",
@@ -303,7 +303,7 @@
  {
   "id": "ya-k-tebe-nikogda",
   "title": "Я к тебе никогда не вернусь",
-  "desc": "",
+  "desc": "По стихотворению Анны Ахматовой «А ты думал — я тоже такая…» (1921)",
   "added": "2026-10-29T06:34:00.000Z",
   "kind": "audio",
   "file": "media/ya-k-tebe-nikogda.mp3",
@@ -580,7 +580,7 @@
  {
   "id": "borodino-pesnya",
   "title": "Бородино",
-  "desc": "Песня",
+  "desc": "По мотивам стихотворения М. Ю. Лермонтова «Бородино» (1837)",
   "added": "2026-10-29T06:41:00.000Z",
   "kind": "audio",
   "file": "media/borodino-pesnya.mp3",
