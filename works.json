@@ -288,7 +288,202 @@
   "kind": "audio",
   "file": "media/mein-engel.mp3",
   "poster": "media/mein-engel.jpg",
-  "duration": "4:40"
+  "duration": "4:40",
+  "lyrics": [
+   {
+    "t": 12.0,
+    "x": "Ich liebe dich..."
+   },
+   {
+    "t": 16.4,
+    "x": "Auch wenn es Schmerz bedeutet."
+   },
+   {
+    "t": 23.4,
+    "x": "Auch wenn mein Herz"
+   },
+   {
+    "t": 28.4,
+    "x": "An dieser Sehnsucht leidet."
+   },
+   {
+    "t": 35.5,
+    "x": "Ich weiß genau,"
+   },
+   {
+    "t": 40.5,
+    "x": "Es passt nicht mehr zu mir."
+   },
+   {
+    "t": 45.6,
+    "x": "Doch jede Nacht"
+   },
+   {
+    "t": 49.3,
+    "x": "Verlier ich mich in dir."
+   },
+   {
+    "t": 58.5,
+    "x": "Ohne dich"
+   },
+   {
+    "t": 62.2,
+    "x": "Ist jede Stunde leer."
+   },
+   {
+    "t": 67.9,
+    "x": "Mit dir"
+   },
+   {
+    "t": 71.6,
+    "x": "Will ich nur noch mehr."
+   },
+   {
+    "t": 79.4,
+    "x": "Mein Engel,"
+   },
+   {
+    "t": 83.1,
+    "x": "Wie sehr ich dich liebe!"
+   },
+   {
+    "t": 89.5,
+    "x": "Jeder Blick"
+   },
+   {
+    "t": 93.2,
+    "x": "Lässt meine Seele fliegen."
+   },
+   {
+    "t": 100.2,
+    "x": "Ein Lächeln von dir"
+   },
+   {
+    "t": 104.6,
+    "x": "Vertreibt jede Nacht."
+   },
+   {
+    "t": 109.6,
+    "x": "Nur deine Nähe"
+   },
+   {
+    "t": 114.0,
+    "x": "Hat mein Herz entfacht."
+   },
+   {
+    "t": 122.5,
+    "x": "Wenn ich"
+   },
+   {
+    "t": 126.2,
+    "x": "Deinen leisen Schritt hör,"
+   },
+   {
+    "t": 131.9,
+    "x": "Deine Stimme,"
+   },
+   {
+    "t": 136.3,
+    "x": "Sanft wie ein Gebet."
+   },
+   {
+    "t": 142.0,
+    "x": "Dann schweigt"
+   },
+   {
+    "t": 145.7,
+    "x": "Die ganze Welt in mir."
+   },
+   {
+    "t": 151.4,
+    "x": "Und jeder Traum"
+   },
+   {
+    "t": 155.7,
+    "x": "Beginnt nur noch mit dir."
+   },
+   {
+    "t": 164.3,
+    "x": "Vielleicht"
+   },
+   {
+    "t": 168.0,
+    "x": "Verdien ich deine Liebe nicht."
+   },
+   {
+    "t": 176.4,
+    "x": "Vielleicht"
+   },
+   {
+    "t": 180.1,
+    "x": "Bleibt Hoffnung nur ein Licht."
+   },
+   {
+    "t": 186.4,
+    "x": "Doch schau mich an,"
+   },
+   {
+    "t": 190.8,
+    "x": "Nur ein einziges Mal."
+   },
+   {
+    "t": 197.2,
+    "x": "Selbst eine Lüge"
+   },
+   {
+    "t": 201.5,
+    "x": "Wäre mir egal."
+   },
+   {
+    "t": 208.7,
+    "x": "Mein Engel,"
+   },
+   {
+    "t": 212.4,
+    "x": "Wie sehr ich dich liebe!"
+   },
+   {
+    "t": 218.8,
+    "x": "Jeder Blick"
+   },
+   {
+    "t": 222.5,
+    "x": "Lässt meine Seele fliegen."
+   },
+   {
+    "t": 229.5,
+    "x": "Bleib einen Augenblick."
+   },
+   {
+    "t": 236.6,
+    "x": "Sag kein Wort."
+   },
+   {
+    "t": 240.3,
+    "x": "Ich glaub an Träume..."
+   },
+   {
+    "t": 245.3,
+    "x": "Und trag sie mit dir fort."
+   },
+   {
+    "t": 254.5,
+    "x": "Ich liebe dich..."
+   },
+   {
+    "t": 258.9,
+    "x": "Auch wenn ich daran zerbreche..."
+   },
+   {
+    "t": 265.9,
+    "x": "Ich liebe dich..."
+   },
+   {
+    "t": 270.3,
+    "x": "Für immer."
+   }
+  ],
+  "lyricsApprox": true
  },
  {
   "id": "pismo",
@@ -298,7 +493,142 @@
   "kind": "audio",
   "file": "media/pismo.mp3",
   "poster": "media/pismo.jpg",
-  "duration": "3:29"
+  "duration": "3:29",
+  "lyrics": [
+   {
+    "t": 12.0,
+    "x": "I wrote to you, what more is left to say"
+   },
+   {
+    "t": 18.7,
+    "x": "In silent nights I feel you slip away"
+   },
+   {
+    "t": 25.0,
+    "x": "You hold my fate, I cannot turn or hide"
+   },
+   {
+    "t": 31.4,
+    "x": "I feel you living deep inside my mind"
+   },
+   {
+    "t": 38.1,
+    "x": "But still I dream of you in every night"
+   },
+   {
+    "t": 44.4,
+    "x": "A shadow moving softly in the light"
+   },
+   {
+    "t": 49.1,
+    "x": "If this is fate, then let it pull me through"
+   },
+   {
+    "t": 54.6,
+    "x": "I don’t belong to me, I belong to you"
+   },
+   {
+    "t": 60.5,
+    "x": "I knew it was you… from the very first time"
+   },
+   {
+    "t": 66.8,
+    "x": "Like a sign from the sky that I couldn’t deny"
+   },
+   {
+    "t": 72.7,
+    "x": "If this is fate, don’t break me down"
+   },
+   {
+    "t": 77.4,
+    "x": "I belong to you somehow"
+   },
+   {
+    "t": 82.1,
+    "x": "I knew it was you… I was already yours"
+   },
+   {
+    "t": 89.3,
+    "x": "Like a voice in my soul I can’t ignore"
+   },
+   {
+    "t": 96.0,
+    "x": "If this is love, then let it be true"
+   },
+   {
+    "t": 101.1,
+    "x": "I was always meant for you"
+   },
+   {
+    "t": 106.2,
+    "x": "In dreams I saw you long before this day"
+   },
+   {
+    "t": 112.9,
+    "x": "A distant echo that would never fade away"
+   },
+   {
+    "t": 119.6,
+    "x": "I questioned every sign inside my mind"
+   },
+   {
+    "t": 126.4,
+    "x": "But every road was leading you to find"
+   },
+   {
+    "t": 133.1,
+    "x": "Maybe I’m wrong, maybe I’m blind"
+   },
+   {
+    "t": 137.8,
+    "x": "Maybe I built this world inside my mind"
+   },
+   {
+    "t": 143.7,
+    "x": "But even if I fall, I won’t regret"
+   },
+   {
+    "t": 148.4,
+    "x": "The moment that we have not met yet"
+   },
+   {
+    "t": 153.5,
+    "x": "I knew it was you… from the very first time"
+   },
+   {
+    "t": 159.8,
+    "x": "Like a sign from the sky that I couldn’t deny"
+   },
+   {
+    "t": 165.7,
+    "x": "If this is fate, don’t break me down"
+   },
+   {
+    "t": 170.4,
+    "x": "I belong to you somehow"
+   },
+   {
+    "t": 175.1,
+    "x": "I knew it was you… I was already yours"
+   },
+   {
+    "t": 182.2,
+    "x": "Every heartbeat opens every door"
+   },
+   {
+    "t": 188.5,
+    "x": "If this is love, then let it be true"
+   },
+   {
+    "t": 193.6,
+    "x": "I was always meant for you"
+   },
+   {
+    "t": 198.7,
+    "x": "I belong… I belong… to you"
+   }
+  ],
+  "lyricsApprox": true
  },
  {
   "id": "ya-k-tebe-nikogda",
@@ -308,7 +638,106 @@
   "kind": "audio",
   "file": "media/ya-k-tebe-nikogda.mp3",
   "poster": "media/ya-k-tebe-nikogda.jpg",
-  "duration": "1:49"
+  "duration": "1:49",
+  "lyrics": [
+   {
+    "t": 6.5,
+    "x": "А ты думал — я тоже такая,"
+   },
+   {
+    "t": 10.4,
+    "x": "Что легко можно взять — и забыть,"
+   },
+   {
+    "t": 13.9,
+    "x": "Что я брошусь, моля и рыдая,"
+   },
+   {
+    "t": 17.8,
+    "x": "Под копыта, чтоб сердце смыть."
+   },
+   {
+    "t": 21.0,
+    "x": "Ты, наверное, думал устало,"
+   },
+   {
+    "t": 24.9,
+    "x": "Что сломаюсь я в первый же час,"
+   },
+   {
+    "t": 28.4,
+    "x": "Что под ветром мне станет так мало"
+   },
+   {
+    "t": 32.3,
+    "x": "Собственных, обжигающих фраз."
+   },
+   {
+    "t": 39.3,
+    "x": "Или стану просить у знахарок"
+   },
+   {
+    "t": 43.2,
+    "x": "В наговорной воде корешок,"
+   },
+   {
+    "t": 46.7,
+    "x": "Чтобы высушить память и ярость,"
+   },
+   {
+    "t": 50.6,
+    "x": "Чтоб прислать тебе странный венок."
+   },
+   {
+    "t": 54.1,
+    "x": "Может, верить ты стал в эти сказки,"
+   },
+   {
+    "t": 58.0,
+    "x": "В тайный шепот и в тряпочный знак,"
+   },
+   {
+    "t": 61.5,
+    "x": "Что пришлю тебе, будто бы в ласке,"
+   },
+   {
+    "t": 65.4,
+    "x": "Мой заветный душистый платок просто так."
+   },
+   {
+    "t": 73.4,
+    "x": "Будь же проклят — ни стоном, ни взглядом"
+   },
+   {
+    "t": 77.3,
+    "x": "Окаянной души не коснусь,"
+   },
+   {
+    "t": 80.8,
+    "x": "Но клянусь тебе ангельским садом,"
+   },
+   {
+    "t": 84.7,
+    "x": "Чудотворной иконой клянусь."
+   },
+   {
+    "t": 88.2,
+    "x": "И ночей наших пламенным чадом,"
+   },
+   {
+    "t": 92.1,
+    "x": "И пожаром не сбывшихся чувств —"
+   },
+   {
+    "t": 95.6,
+    "x": "Я к тебе, ни при жизни, ни рядом,"
+   },
+   {
+    "t": 99.5,
+    "x": "Никогда, никогда не вернусь."
+   }
+  ],
+  "lyricsApprox": true
  },
  {
   "id": "primavera",
@@ -318,7 +747,174 @@
   "kind": "audio",
   "file": "media/primavera.mp3",
   "poster": "media/primavera.jpg",
-  "duration": "2:58"
+  "duration": "2:58",
+  "lyrics": [
+   {
+    "t": 10.7,
+    "x": "Sono qui con il mattino,"
+   },
+   {
+    "t": 14.3,
+    "x": "con il sole sopra il cuore."
+   },
+   {
+    "t": 18.2,
+    "x": "Ogni foglia prende vita,"
+   },
+   {
+    "t": 21.7,
+    "x": "si risveglia nel suo splendore."
+   },
+   {
+    "t": 26.0,
+    "x": "Ogni ramo canta piano,"
+   },
+   {
+    "t": 29.5,
+    "x": "ogni cielo sembra vero,"
+   },
+   {
+    "t": 33.1,
+    "x": "e la primavera danza"
+   },
+   {
+    "t": 36.3,
+    "x": "come un sogno leggero."
+   },
+   {
+    "t": 43.1,
+    "x": "Ogni respiro parla di te,"
+   },
+   {
+    "t": 46.6,
+    "x": "come il vento parla al mare."
+   },
+   {
+    "t": 54.0,
+    "x": "Vengo ancora da te,"
+   },
+   {
+    "t": 56.9,
+    "x": "con la stessa emozione."
+   },
+   {
+    "t": 60.5,
+    "x": "Ogni giorno il mio cuore"
+   },
+   {
+    "t": 64.7,
+    "x": "cerca la tua direzione."
+   },
+   {
+    "t": 68.6,
+    "x": "Non so ancora quale canto"
+   },
+   {
+    "t": 72.5,
+    "x": "nascerà dentro di me,"
+   },
+   {
+    "t": 75.1,
+    "x": "ma già sento questa musica"
+   },
+   {
+    "t": 79.0,
+    "x": "che vive solo per te."
+   },
+   {
+    "t": 85.4,
+    "x": "Ogni fiore apre il giorno,"
+   },
+   {
+    "t": 89.6,
+    "x": "ogni luce sa il tuo nome."
+   },
+   {
+    "t": 93.5,
+    "x": "Ogni passo mi riporta"
+   },
+   {
+    "t": 96.8,
+    "x": "dove sento casa e sole."
+   },
+   {
+    "t": 100.3,
+    "x": "La mia anima sorride,"
+   },
+   {
+    "t": 103.9,
+    "x": "non conosce più confini."
+   },
+   {
+    "t": 107.1,
+    "x": "Tutto il mondo sembra dire:"
+   },
+   {
+    "t": 110.7,
+    "x": "\"Resta qui, non andare.\""
+   },
+   {
+    "t": 117.4,
+    "x": "Se domani nascerà"
+   },
+   {
+    "t": 120.0,
+    "x": "una nuova melodia,"
+   },
+   {
+    "t": 123.5,
+    "x": "sarà il cielo a raccontare"
+   },
+   {
+    "t": 127.4,
+    "x": "questa semplice magia."
+   },
+   {
+    "t": 134.5,
+    "x": "Vengo ancora da te,"
+   },
+   {
+    "t": 137.4,
+    "x": "con la stessa emozione."
+   },
+   {
+    "t": 141.0,
+    "x": "Ogni giorno il mio cuore"
+   },
+   {
+    "t": 145.2,
+    "x": "cerca la tua direzione."
+   },
+   {
+    "t": 149.1,
+    "x": "E se canto questa vita,"
+   },
+   {
+    "t": 152.7,
+    "x": "è perché ci sei anche tu."
+   },
+   {
+    "t": 155.6,
+    "x": "Come il sole sopra il mondo,"
+   },
+   {
+    "t": 159.5,
+    "x": "sei la mia primavera."
+   },
+   {
+    "t": 166.5,
+    "x": "Oh..."
+   },
+   {
+    "t": 168.4,
+    "x": "Primavera..."
+   },
+   {
+    "t": 170.3,
+    "x": "Sempre tu..."
+   }
+  ],
+  "lyricsApprox": true
  },
  {
   "id": "primavera-solo-tu",
@@ -328,7 +924,182 @@
   "kind": "audio",
   "file": "media/primavera-solo-tu.mp3",
   "poster": "media/primavera-solo-tu.jpg",
-  "duration": "3:14"
+  "duration": "3:14",
+  "lyrics": [
+   {
+    "t": 11.7,
+    "x": "Vengo aquí con el amanecer,"
+   },
+   {
+    "t": 16.2,
+    "x": "te lo digo sin dudar,"
+   },
+   {
+    "t": 19.5,
+    "x": "que el sol ha vuelto a nacer"
+   },
+   {
+    "t": 24.4,
+    "x": "y empieza todo a brillar."
+   },
+   {
+    "t": 29.0,
+    "x": "El bosque abre sus ojos,"
+   },
+   {
+    "t": 33.1,
+    "x": "cada rama canta ya,"
+   },
+   {
+    "t": 36.8,
+    "x": "y el aire lleno de vida"
+   },
+   {
+    "t": 41.3,
+    "x": "me invita a caminar."
+   },
+   {
+    "t": 48.6,
+    "x": "Y otra vez como ayer,"
+   },
+   {
+    "t": 52.7,
+    "x": "vuelvo solo hacia ti,"
+   },
+   {
+    "t": 56.8,
+    "x": "con el mismo fuego en el alma"
+   },
+   {
+    "t": 61.7,
+    "x": "que no quiere salir de mí."
+   },
+   {
+    "t": 69.7,
+    "x": "Vengo otra vez a ti,"
+   },
+   {
+    "t": 73.1,
+    "x": "con la misma emoción,"
+   },
+   {
+    "t": 76.4,
+    "x": "cada día mi pecho"
+   },
+   {
+    "t": 79.4,
+    "x": "busca tu dirección."
+   },
+   {
+    "t": 82.3,
+    "x": "No sé qué canción"
+   },
+   {
+    "t": 84.5,
+    "x": "nacerá dentro de mí,"
+   },
+   {
+    "t": 87.0,
+    "x": "pero siento esta música"
+   },
+   {
+    "t": 91.1,
+    "x": "que vive solo por ti."
+   },
+   {
+    "t": 98.4,
+    "x": "Las flores ya despiertan,"
+   },
+   {
+    "t": 102.5,
+    "x": "la luz pronuncia tu nombre,"
+   },
+   {
+    "t": 106.6,
+    "x": "cada paso me lleva"
+   },
+   {
+    "t": 110.0,
+    "x": "a un lugar donde no hay sombras."
+   },
+   {
+    "t": 114.9,
+    "x": "Mi alma va sonriendo,"
+   },
+   {
+    "t": 118.6,
+    "x": "sin miedo ni final,"
+   },
+   {
+    "t": 121.9,
+    "x": "todo el mundo me dice:"
+   },
+   {
+    "t": 125.7,
+    "x": "“quédate un poco más”."
+   },
+   {
+    "t": 132.1,
+    "x": "Si mañana nace"
+   },
+   {
+    "t": 135.1,
+    "x": "otra melodía en el viento,"
+   },
+   {
+    "t": 139.6,
+    "x": "será el cielo quien diga"
+   },
+   {
+    "t": 144.1,
+    "x": "lo que siento en silencio."
+   },
+   {
+    "t": 152.5,
+    "x": "Vengo otra vez a ti,"
+   },
+   {
+    "t": 155.9,
+    "x": "con la misma emoción,"
+   },
+   {
+    "t": 159.2,
+    "x": "cada día mi pecho"
+   },
+   {
+    "t": 162.1,
+    "x": "busca tu dirección."
+   },
+   {
+    "t": 165.1,
+    "x": "Y si canto la vida,"
+   },
+   {
+    "t": 168.4,
+    "x": "es porque estás aquí,"
+   },
+   {
+    "t": 171.8,
+    "x": "como el sol en el mundo,"
+   },
+   {
+    "t": 175.5,
+    "x": "eres todo para mí."
+   },
+   {
+    "t": 181.9,
+    "x": "Oh…"
+   },
+   {
+    "t": 184.1,
+    "x": "primavera…"
+   },
+   {
+    "t": 186.3,
+    "x": "solo tú…"
+   }
+  ],
+  "lyricsApprox": true
  },
  {
   "id": "un-nouvel-univers-fr",
@@ -575,7 +1346,146 @@
   "kind": "audio",
   "file": "media/poka-svoboday-gorim.mp3",
   "poster": "media/poka-svoboday-gorim.jpg",
-  "duration": "4:53"
+  "duration": "4:53",
+  "lyrics": [
+   {
+    "t": 12.0,
+    "x": "Любви, надежды, тихой славы"
+   },
+   {
+    "t": 20.1,
+    "x": "Недолго нежил нас обман."
+   },
+   {
+    "t": 27.4,
+    "x": "Исчезли юные забавы,"
+   },
+   {
+    "t": 35.5,
+    "x": "Как сон, как утренний туман."
+   },
+   {
+    "t": 42.8,
+    "x": "Но в нас горит ещё желанье,"
+   },
+   {
+    "t": 50.9,
+    "x": "Под гнётом власти роковой,"
+   },
+   {
+    "t": 58.3,
+    "x": "Нетерпеливою душой"
+   },
+   {
+    "t": 65.6,
+    "x": "Отчизны внемлем призыванье."
+   },
+   {
+    "t": 77.2,
+    "x": "Мы ждём с томленьем упованья"
+   },
+   {
+    "t": 85.3,
+    "x": "Минуты вольности святой,"
+   },
+   {
+    "t": 92.6,
+    "x": "Как ждёт любовник молодой"
+   },
+   {
+    "t": 99.9,
+    "x": "Минуты верного свиданья."
+   },
+   {
+    "t": 111.5,
+    "x": "Пока свободою горим,"
+   },
+   {
+    "t": 118.9,
+    "x": "Пока сердца для чести живы,"
+   },
+   {
+    "t": 127.0,
+    "x": "Мой друг, Отчизне посвятим"
+   },
+   {
+    "t": 134.3,
+    "x": "Души прекрасные порывы!"
+   },
+   {
+    "t": 142.4,
+    "x": "Пока свободою горим,"
+   },
+   {
+    "t": 149.7,
+    "x": "Пока сердца для чести живы,"
+   },
+   {
+    "t": 157.8,
+    "x": "Пусть через годы прозвучит"
+   },
+   {
+    "t": 165.1,
+    "x": "Наш голос гордый и правдивый."
+   },
+   {
+    "t": 176.7,
+    "x": "Товарищ, верь: взойдёт она,"
+   },
+   {
+    "t": 184.1,
+    "x": "Звезда пленительного счастья."
+   },
+   {
+    "t": 192.2,
+    "x": "Россия вспрянет ото сна,"
+   },
+   {
+    "t": 199.5,
+    "x": "И на обломках самовластья"
+   },
+   {
+    "t": 207.6,
+    "x": "Напишут наши имена!"
+   },
+   {
+    "t": 218.4,
+    "x": "Пока свободою горим,"
+   },
+   {
+    "t": 225.7,
+    "x": "Пока сердца для чести живы,"
+   },
+   {
+    "t": 233.8,
+    "x": "Мой друг, Отчизне посвятим"
+   },
+   {
+    "t": 241.2,
+    "x": "Души прекрасные порывы!"
+   },
+   {
+    "t": 249.3,
+    "x": "Товарищ, верь: взойдёт она,"
+   },
+   {
+    "t": 256.6,
+    "x": "Звезда пленительного счастья."
+   },
+   {
+    "t": 264.7,
+    "x": "Россия вспрянет ото сна,"
+   },
+   {
+    "t": 272.0,
+    "x": "И на обломках самовластья"
+   },
+   {
+    "t": 280.1,
+    "x": "Напишут наши имена!"
+   }
+  ],
+  "lyricsApprox": true
  },
  {
   "id": "borodino-pesnya",
@@ -585,7 +1495,270 @@
   "kind": "audio",
   "file": "media/borodino-pesnya.mp3",
   "poster": "media/borodino-pesnya.jpg",
-  "duration": "6:14"
+  "duration": "6:14",
+  "lyrics": [
+   {
+    "t": 12.0,
+    "x": "Скажи мне, дядя, не напрасно"
+   },
+   {
+    "t": 18.3,
+    "x": "Москва в огне сгорела страшно?"
+   },
+   {
+    "t": 24.5,
+    "x": "Зачем был этот бой?"
+   },
+   {
+    "t": 29.0,
+    "x": "Ведь гром гремел над Бородином,"
+   },
+   {
+    "t": 35.2,
+    "x": "И дым стоял одной лавиной"
+   },
+   {
+    "t": 41.5,
+    "x": "Над русскою землёй."
+   },
+   {
+    "t": 49.5,
+    "x": "Да, были люди, были силы,"
+   },
+   {
+    "t": 55.7,
+    "x": "Стояли насмерть до могилы."
+   },
+   {
+    "t": 62.0,
+    "x": "И каждый знал тогда:"
+   },
+   {
+    "t": 66.4,
+    "x": "За нами дом, за нами дети,"
+   },
+   {
+    "t": 72.7,
+    "x": "И нет святее слова в свете,"
+   },
+   {
+    "t": 79.0,
+    "x": "Чем Родина одна."
+   },
+   {
+    "t": 86.9,
+    "x": "За Москву! До конца!"
+   },
+   {
+    "t": 91.4,
+    "x": "Пусть гремят небеса!"
+   },
+   {
+    "t": 95.9,
+    "x": "Мы стояли стеной,"
+   },
+   {
+    "t": 100.3,
+    "x": "За Отчизну — в бой!"
+   },
+   {
+    "t": 104.2,
+    "x": "За Москву! За своих!"
+   },
+   {
+    "t": 108.7,
+    "x": "Не сломить живых!"
+   },
+   {
+    "t": 112.5,
+    "x": "Если снова гроза —"
+   },
+   {
+    "t": 117.0,
+    "x": "Мы пойдём до конца!"
+   },
+   {
+    "t": 125.0,
+    "x": "Мы долго молча отступали,"
+   },
+   {
+    "t": 131.2,
+    "x": "Но крепче только духом стали,"
+   },
+   {
+    "t": 137.5,
+    "x": "Ждали грозный час."
+   },
+   {
+    "t": 141.4,
+    "x": "Старики ворчали зло:"
+   },
+   {
+    "t": 146.4,
+    "x": "«Неужели не пришло"
+   },
+   {
+    "t": 151.5,
+    "x": "Время бить сейчас?»"
+   },
+   {
+    "t": 155.4,
+    "x": "И вот нашли большое поле,"
+   },
+   {
+    "t": 161.6,
+    "x": "Где ветер дышит полной волей,"
+   },
+   {
+    "t": 167.9,
+    "x": "Редут поднялся вмиг."
+   },
+   {
+    "t": 172.3,
+    "x": "И только солнце засветилось —"
+   },
+   {
+    "t": 178.6,
+    "x": "Французской армии явилась"
+   },
+   {
+    "t": 184.9,
+    "x": "Несметная лавина."
+   },
+   {
+    "t": 193.4,
+    "x": "Забил заряд я крепко в пушку,"
+   },
+   {
+    "t": 199.7,
+    "x": "Сказал: «Постой теперь, братушка,"
+   },
+   {
+    "t": 205.9,
+    "x": "Попробуй сделать шаг!»"
+   },
+   {
+    "t": 210.4,
+    "x": "Мы постоим за землю эту,"
+   },
+   {
+    "t": 216.7,
+    "x": "И пусть узнает враг навеки,"
+   },
+   {
+    "t": 222.9,
+    "x": "Что русский значит флаг!"
+   },
+   {
+    "t": 230.9,
+    "x": "За Москву! До конца!"
+   },
+   {
+    "t": 235.4,
+    "x": "Пусть гремят небеса!"
+   },
+   {
+    "t": 239.8,
+    "x": "Мы стояли стеной,"
+   },
+   {
+    "t": 244.3,
+    "x": "За Отчизну — в бой!"
+   },
+   {
+    "t": 248.2,
+    "x": "За Москву! За своих!"
+   },
+   {
+    "t": 252.6,
+    "x": "Не сломить живых!"
+   },
+   {
+    "t": 256.5,
+    "x": "Если снова гроза —"
+   },
+   {
+    "t": 261.0,
+    "x": "Мы пойдём до конца!"
+   },
+   {
+    "t": 268.9,
+    "x": "Полковник крикнул:"
+   },
+   {
+    "t": 272.8,
+    "x": "«Не Москва ли за спиной?»"
+   },
+   {
+    "t": 277.9,
+    "x": "И каждый понял —"
+   },
+   {
+    "t": 281.7,
+    "x": "Отступать уже нельзя."
+   },
+   {
+    "t": 286.8,
+    "x": "Земля дрожала,"
+   },
+   {
+    "t": 290.7,
+    "x": "Словно сердце у бойца,"
+   },
+   {
+    "t": 295.8,
+    "x": "И тысячи орудий"
+   },
+   {
+    "t": 300.8,
+    "x": "Пели песню до конца."
+   },
+   {
+    "t": 309.4,
+    "x": "За Москву! До конца!"
+   },
+   {
+    "t": 313.8,
+    "x": "Пусть гремят небеса!"
+   },
+   {
+    "t": 318.3,
+    "x": "Мы стояли стеной,"
+   },
+   {
+    "t": 322.8,
+    "x": "За Отчизну — в бой!"
+   },
+   {
+    "t": 326.7,
+    "x": "За Москву! За своих!"
+   },
+   {
+    "t": 331.1,
+    "x": "Сквозь огонь и дым седой."
+   },
+   {
+    "t": 336.2,
+    "x": "Будет помнить вся Россия"
+   },
+   {
+    "t": 341.9,
+    "x": "День великий — Бородино!"
+   },
+   {
+    "t": 351.0,
+    "x": "Да, были люди в наше время,"
+   },
+   {
+    "t": 357.3,
+    "x": "Могучее лихое племя…"
+   },
+   {
+    "t": 363.5,
+    "x": "И память их жива."
+   }
+  ],
+  "lyricsApprox": true
  },
  {
   "id": "iz-telefona-snickers",
