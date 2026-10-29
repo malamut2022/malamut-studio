@@ -2076,5 +2076,15 @@
   "file": "media/zhivopis.mp4",
   "poster": "media/zhivopis.jpg",
   "duration": "2:27"
+ },
+ {
+  "id": "buhgalterskie-tainy",
+  "title": "Бухгалтерские тайны",
+  "desc": "",
+  "added": "2026-10-29T19:43:00.000Z",
+  "kind": "video",
+  "file": "media/buhgalterskie-tainy.mp4",
+  "poster": "media/buhgalterskie-tainy.jpg",
+  "duration": "0:57"
  }
 ]
