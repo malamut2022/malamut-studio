@@ -634,5 +634,25 @@
   "kind": "image",
   "section": "projects",
   "file": "media/salikhanskie-morgi.jpg"
+ },
+ {
+  "id": "dvor",
+  "title": "Двор",
+  "desc": "",
+  "added": "2026-10-29T07:01:00.000Z",
+  "kind": "video",
+  "file": "media/dvor.mp4",
+  "poster": "media/dvor.jpg",
+  "duration": "0:08"
+ },
+ {
+  "id": "zvonok",
+  "title": "Звонок",
+  "desc": "",
+  "added": "2026-10-29T07:02:00.000Z",
+  "kind": "video",
+  "file": "media/zvonok.mp4",
+  "poster": "media/zvonok.jpg",
+  "duration": "0:08"
  }
 ]
