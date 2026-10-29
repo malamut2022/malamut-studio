@@ -358,7 +358,214 @@
   "kind": "audio",
   "file": "media/holyday.mp3",
   "poster": "media/holyday.jpg",
-  "duration": "3:32"
+  "duration": "3:32",
+  "lyrics": [
+   {
+    "t": 13.0,
+    "x": "Another morning in the grey,"
+   },
+   {
+    "t": 16.3,
+    "x": "Same old faces, same old way."
+   },
+   {
+    "t": 19.8,
+    "x": "Traffic lights and empty streets,"
+   },
+   {
+    "t": 22.8,
+    "x": "Heart is drifting to the sea."
+   },
+   {
+    "t": 25.7,
+    "x": "Every hour feels too long,"
+   },
+   {
+    "t": 28.6,
+    "x": "Like I'm stuck inside a song."
+   },
+   {
+    "t": 32.2,
+    "x": "But somewhere far beyond the noise,"
+   },
+   {
+    "t": 36.1,
+    "x": "I hear that quiet ocean voice."
+   },
+   {
+    "t": 43.4,
+    "x": "It’s calling out, I feel it now,"
+   },
+   {
+    "t": 46.6,
+    "x": "I need to break away somehow."
+   },
+   {
+    "t": 54.2,
+    "x": "Holiday, I’m breaking free,"
+   },
+   {
+    "t": 57.1,
+    "x": "Take this weight off over me."
+   },
+   {
+    "t": 60.4,
+    "x": "Sunlight crashing through my mind,"
+   },
+   {
+    "t": 63.3,
+    "x": "Leave it all, the world behind."
+   },
+   {
+    "t": 66.5,
+    "x": "Holiday, don’t let me fall,"
+   },
+   {
+    "t": 69.4,
+    "x": "I can hear the ocean call."
+   },
+   {
+    "t": 72.3,
+    "x": "Running fast, no looking back,"
+   },
+   {
+    "t": 75.3,
+    "x": "I’m escaping all I lack."
+   },
+   {
+    "t": 82.2,
+    "x": "Paper dreams and sleepless nights,"
+   },
+   {
+    "t": 85.1,
+    "x": "Neon shadows, city lights."
+   },
+   {
+    "t": 87.6,
+    "x": "But in my head there’s open skies,"
+   },
+   {
+    "t": 91.2,
+    "x": "Where I can finally realize…"
+   },
+   {
+    "t": 95.2,
+    "x": "That I don’t belong in here,"
+   },
+   {
+    "t": 98.4,
+    "x": "Drowning in the noise and fear."
+   },
+   {
+    "t": 101.7,
+    "x": "There’s a place I’ve never been,"
+   },
+   {
+    "t": 105.6,
+    "x": "Where the air is pure and clean."
+   },
+   {
+    "t": 113.2,
+    "x": "It’s getting loud inside my chest,"
+   },
+   {
+    "t": 116.8,
+    "x": "I think it’s time to leave the rest."
+   },
+   {
+    "t": 124.7,
+    "x": "Holiday, I’m breaking free,"
+   },
+   {
+    "t": 127.6,
+    "x": "Take this weight off over me."
+   },
+   {
+    "t": 130.9,
+    "x": "Sunlight crashing through my mind,"
+   },
+   {
+    "t": 133.8,
+    "x": "Leave it all, the world behind."
+   },
+   {
+    "t": 137.1,
+    "x": "Holiday, don’t let me fall,"
+   },
+   {
+    "t": 140.0,
+    "x": "I can hear the ocean call."
+   },
+   {
+    "t": 142.9,
+    "x": "Running fast, no looking back,"
+   },
+   {
+    "t": 145.8,
+    "x": "I’m escaping all I lack."
+   },
+   {
+    "t": 152.7,
+    "x": "If I run, will I be found?"
+   },
+   {
+    "t": 155.6,
+    "x": "If I fall, will I touch the ground?"
+   },
+   {
+    "t": 158.9,
+    "x": "All I know is what I feel,"
+   },
+   {
+    "t": 161.8,
+    "x": "And this dream is finally real."
+   },
+   {
+    "t": 169.0,
+    "x": "Holiday, I’m on my way,"
+   },
+   {
+    "t": 171.9,
+    "x": "No more waiting, no delay."
+   },
+   {
+    "t": 175.2,
+    "x": "Take my hand and let me go,"
+   },
+   {
+    "t": 178.4,
+    "x": "To the place I’ve always known."
+   },
+   {
+    "t": 182.0,
+    "x": "Holiday, I’m breaking free,"
+   },
+   {
+    "t": 184.9,
+    "x": "This is where I’m meant to be."
+   },
+   {
+    "t": 188.2,
+    "x": "Ocean sky and endless light,"
+   },
+   {
+    "t": 191.1,
+    "x": "Everything will be alright."
+   },
+   {
+    "t": 198.4,
+    "x": "Holiday…"
+   },
+   {
+    "t": 200.2,
+    "x": "I’m breaking free…"
+   },
+   {
+    "t": 202.1,
+    "x": "Holiday…"
+   }
+  ],
+  "lyricsApprox": true
  },
  {
   "id": "poka-svoboday-gorim",

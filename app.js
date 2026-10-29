@@ -153,8 +153,8 @@
       au.addEventListener('timeupdate', function () { if (au.paused) step(); });
       setTimeout(step, 50);
     }
-    if (isEditing()) {
-      var kb = el('button', 'pill', lines.length ? 'Переделать караоке' : 'Сделать караоке'); kb.type = 'button';
+    if (isEditing() || TUNE) {
+      var kb = el('button', 'pill', lines.length ? 'Подогнать время строк' : 'Сделать караоке'); kb.type = 'button';
       kb.addEventListener('click', function () { kb.remove(); karaokeEditor(s, au, w); });
       s.appendChild(kb);
     }
@@ -191,6 +191,20 @@
       row.textContent = ''; row.appendChild(saveBtn); row.appendChild(again); row.appendChild(cancel);
       status.textContent = 'Все строки отмечены. Сохраните или пройдите заново.';
       again.addEventListener('click', function () { panel.remove(); if (old) old.hidden = false; karaokeEditor(s, au, w); });
+      if (!token) {
+        // Без входа автора сохранить нельзя: даём результат, чтобы переслать его Claude
+        var res = 'Караоке «' + w.title + '»\n' + lines.map(function (x, i) { return Math.round(times[i] * 10) / 10 + ' ' + x; }).join('\n');
+        saveBtn.textContent = 'Скопировать результат';
+        status.textContent = 'Готово! Нажмите «Скопировать результат» и пришлите текст Claude в чат.';
+        var out = el('textarea'); out.value = res; out.readOnly = true; out.setAttribute('aria-label', 'Результат'); panel.insertBefore(out, row);
+        saveBtn.addEventListener('click', function () {
+          out.select();
+          var done = function () { saveBtn.textContent = 'Скопировано ✓'; };
+          if (navigator.clipboard) navigator.clipboard.writeText(res).then(done, function () { document.execCommand('copy'); done(); });
+          else { document.execCommand('copy'); done(); }
+        });
+        return;
+      }
       saveBtn.addEventListener('click', function () {
         saveBtn.disabled = true; status.classList.remove('err'); status.textContent = 'Сохраняю…';
         var lyr = lines.map(function (x, i) { return { t: Math.round(times[i] * 10) / 10, x: x }; });
@@ -220,8 +234,8 @@
   var WAVE = '<svg viewBox="0 0 120 60" fill="#9fd4ff" aria-hidden="true"><rect x="2" y="24" width="6" height="12" rx="3"/><rect x="14" y="16" width="6" height="28" rx="3"/><rect x="26" y="6" width="6" height="48" rx="3"/><rect x="38" y="18" width="6" height="24" rx="3"/><rect x="50" y="10" width="6" height="40" rx="3"/><rect x="62" y="2" width="6" height="56" rx="3"/><rect x="74" y="14" width="6" height="32" rx="3"/><rect x="86" y="8" width="6" height="44" rx="3"/><rect x="98" y="20" width="6" height="20" rx="3"/><rect x="110" y="26" width="6" height="8" rx="3"/></svg>';
   var PLAY = '<span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4l14 8-14 8z" fill="currentColor"/></svg></span>';
   var EXPAND = '<span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></span>';
-  var SECTIONS = ['video', 'projects', 'music', 'photo', 'obrazy'];
-  var EMPTY = { video: 'Скоро здесь появятся новые видео.', projects: 'Скоро здесь появятся тексты и проекты.', music: 'Скоро здесь появятся песни.', photo: 'Скоро здесь появятся фото и картинки.', obrazy: 'Скоро здесь появятся новые образы.' };
+  var SECTIONS = ['video', 'projects', 'music', 'photo', 'obrazy', 'karaoke'];
+  var EMPTY = { video: 'Скоро здесь появятся новые видео.', projects: 'Скоро здесь появятся тексты и проекты.', music: 'Скоро здесь появятся песни.', photo: 'Скоро здесь появятся фото и картинки.', obrazy: 'Скоро здесь появятся новые образы.', karaoke: 'Скоро здесь появятся песни для караоке.' };
   function sectionOf(w) { if (SECTIONS.indexOf(w.section) >= 0) return w.section; return w.kind === 'video' ? 'video' : w.kind === 'audio' ? 'music' : w.kind === 'image' ? 'photo' : 'projects'; }
 
   function render() {
@@ -248,6 +262,14 @@
       card.appendChild(rxBar(w));
       if (edit) card.appendChild(removeButton(w));
       $('grid-' + sectionOf(w)).appendChild(card);
+      if (w.lyrics && w.lyrics.length) {
+        var kc = card.cloneNode(true);
+        kc.querySelectorAll('.remove').forEach(function (n) { n.remove(); });
+        var ko = kc.querySelector('.open'); ko.addEventListener('click', function () { viewWork(w); });
+        var kr = kc.querySelector('.rx'); if (kr) kr.replaceWith(rxBar(w));
+        kc.querySelector('.meta span').textContent = 'Караоке · ' + w.lyrics.length + ' строк';
+        $('grid-karaoke').appendChild(kc);
+      }
     });
     SECTIONS.forEach(function (k) {
       var g = $('grid-' + k), n = g.querySelectorAll('.work').length;
@@ -335,6 +357,7 @@
 
   // ---------- Вход автора и сохранение в GitHub
   var token = store('malamut_token') || null, guestView = false;
+  var TUNE = /[?&]nastroika\b/.test(location.search);
   function isEditing() { return !!token && !guestView; }
   function api(path, opts) {
     opts = opts || {};
