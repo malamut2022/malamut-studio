@@ -227,7 +227,8 @@
     "t": 182.0,
     "x": "Я уже лечу…"
    }
-  ]
+  ],
+  "order": 1
  },
  {
   "id": "k-chaadaevu",
@@ -283,7 +284,7 @@
  {
   "id": "mein-engel",
   "title": "Mein Engel",
-  "desc": "",
+  "desc": "Стихи — Александр Пушкин, «Признание» (перевод на немецкий, в переработке) · Музыка — студия MALAMUT",
   "added": "2026-10-29T06:32:00.000Z",
   "kind": "audio",
   "file": "media/mein-engel.mp3",
@@ -483,12 +484,13 @@
     "x": "Für immer."
    }
   ],
-  "lyricsApprox": true
+  "lyricsApprox": true,
+  "order": 2
  },
  {
   "id": "pismo",
-  "title": "Письмо",
-  "desc": "",
+  "title": "The Letter",
+  "desc": "Стихи — Александр Пушкин, «Письмо Татьяны к Онегину» (перевод на английский, в переработке) · Музыка — студия MALAMUT",
   "added": "2026-10-29T06:33:00.000Z",
   "kind": "audio",
   "file": "media/pismo.mp3",
@@ -742,7 +744,7 @@
  {
   "id": "primavera",
   "title": "Primavera",
-  "desc": "",
+  "desc": "Стихи — Афанасий Фет, «Я пришёл к тебе с приветом…» (перевод на итальянский, в переработке) · Музыка — студия MALAMUT",
   "added": "2026-10-29T06:35:00.000Z",
   "kind": "audio",
   "file": "media/primavera.mp3",
@@ -919,7 +921,7 @@
  {
   "id": "primavera-solo-tu",
   "title": "Primavera Solo Tú",
-  "desc": "",
+  "desc": "Стихи — Афанасий Фет, «Я пришёл к тебе с приветом…» (перевод на испанский, в переработке) · Музыка — студия MALAMUT",
   "added": "2026-10-29T06:36:00.000Z",
   "kind": "audio",
   "file": "media/primavera-solo-tu.mp3",
