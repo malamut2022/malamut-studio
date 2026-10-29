@@ -494,7 +494,7 @@
   "added": "2026-10-29T06:33:00.000Z",
   "kind": "audio",
   "file": "media/pismo.mp3",
-  "poster": "media/pismo.jpg",
+  "poster": "media/the-letter.jpg",
   "duration": "3:29",
   "lyrics": [
    {
@@ -630,7 +630,8 @@
     "x": "I belong… I belong… to you"
    }
   ],
-  "lyricsApprox": true
+  "lyricsApprox": true,
+  "posterVideo": "media/the-letter-loop.mp4"
  },
  {
   "id": "ya-k-tebe-nikogda",
