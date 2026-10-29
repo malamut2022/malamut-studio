@@ -2056,5 +2056,15 @@
   "file": "media/teatr-praktika.mp4",
   "poster": "media/teatr-praktika.jpg",
   "duration": "1:34"
+ },
+ {
+  "id": "v-gostyakh-u-skazki",
+  "title": "В гостях у сказки",
+  "desc": "",
+  "added": "2026-10-29T11:45:00.000Z",
+  "kind": "video",
+  "file": "media/v-gostyakh-u-skazki.mp4",
+  "poster": "media/v-gostyakh-u-skazki.jpg",
+  "duration": "3:01"
  }
 ]
