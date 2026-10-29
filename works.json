@@ -527,5 +527,15 @@
   "file": "media/u-samovara.mp4",
   "poster": "media/u-samovara.jpg",
   "duration": "0:10"
+ },
+ {
+  "id": "polina-vremya",
+  "title": "Полина. Программа «Время»",
+  "desc": "",
+  "added": "2026-10-29T06:40:00.000Z",
+  "kind": "video",
+  "file": "media/polina-vremya.mp4",
+  "poster": "media/polina-vremya.jpg",
+  "duration": "0:56"
  }
 ]
