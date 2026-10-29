@@ -189,3 +189,10 @@ html.splashing, html.splashing body { overflow: hidden; }
 #grid-projects .thumb img { object-position: center top; }
 @media (max-width: 860px) { #grid-projects { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 @media (max-width: 560px) { #grid-projects { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px 14px; } #grid-projects .work h3 { font-size: 15px; } }
+
+/* Образы — вертикальные карточки */
+#grid-obrazy { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+#grid-obrazy .thumb { aspect-ratio: 4 / 5; }
+#grid-obrazy .thumb img, #grid-obrazy .thumb video { object-position: center 30%; }
+@media (max-width: 860px) { #grid-obrazy { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 560px) { #grid-obrazy { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px 14px; } #grid-obrazy .work h3 { font-size: 15px; } }

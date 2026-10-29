@@ -654,5 +654,34 @@
   "file": "media/zvonok.mp4",
   "poster": "media/zvonok.jpg",
   "duration": "0:08"
+ },
+ {
+  "id": "povelitel-media",
+  "title": "Повелитель медиа",
+  "desc": "",
+  "added": "2026-10-29T07:10:00.000Z",
+  "kind": "image",
+  "section": "obrazy",
+  "file": "media/povelitel-media.jpg"
+ },
+ {
+  "id": "skotnyi-dvor",
+  "title": "За чтением. «Скотный двор»",
+  "desc": "",
+  "added": "2026-10-29T07:11:00.000Z",
+  "kind": "image",
+  "section": "obrazy",
+  "file": "media/skotnyi-dvor.jpg"
+ },
+ {
+  "id": "skvoz-veka",
+  "title": "Сквозь века",
+  "desc": "",
+  "added": "2026-10-29T07:13:00.000Z",
+  "kind": "video",
+  "section": "obrazy",
+  "file": "media/skvoz-veka.mp4",
+  "poster": "media/skvoz-veka.jpg",
+  "duration": "0:10"
  }
 ]
