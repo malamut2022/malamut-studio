@@ -379,5 +379,117 @@
   "file": "media/borodino-pesnya.mp3",
   "poster": "media/borodino-pesnya.jpg",
   "duration": "6:14"
+ },
+ {
+  "id": "iz-telefona-snickers",
+  "title": "Из телефона",
+  "desc": "",
+  "added": "2026-10-29T06:10:00.000Z",
+  "kind": "image",
+  "file": "media/iz-telefona-snickers.jpg"
+ },
+ {
+  "id": "iz-telefona",
+  "title": "Сквозь экран",
+  "desc": "",
+  "added": "2026-10-29T06:11:00.000Z",
+  "kind": "image",
+  "file": "media/iz-telefona.jpg"
+ },
+ {
+  "id": "kupala",
+  "title": "Ночь на Ивана Купалу",
+  "desc": "",
+  "added": "2026-10-29T06:12:00.000Z",
+  "kind": "image",
+  "file": "media/kupala.jpg"
+ },
+ {
+  "id": "lunnyi-les",
+  "title": "Лунный лес",
+  "desc": "",
+  "added": "2026-10-29T06:13:00.000Z",
+  "kind": "image",
+  "file": "media/lunnyi-les.jpg"
+ },
+ {
+  "id": "bluelight",
+  "title": "Bluelight",
+  "desc": "",
+  "added": "2026-10-29T06:14:00.000Z",
+  "kind": "image",
+  "file": "media/bluelight.jpg"
+ },
+ {
+  "id": "oskolki",
+  "title": "Осколки света",
+  "desc": "",
+  "added": "2026-10-29T06:15:00.000Z",
+  "kind": "image",
+  "file": "media/oskolki.jpg"
+ },
+ {
+  "id": "zatmenie",
+  "title": "Затмение",
+  "desc": "",
+  "added": "2026-10-29T06:16:00.000Z",
+  "kind": "image",
+  "file": "media/zatmenie.jpg"
+ },
+ {
+  "id": "ogon-i-led",
+  "title": "Огонь и лёд",
+  "desc": "",
+  "added": "2026-10-29T06:17:00.000Z",
+  "kind": "image",
+  "file": "media/ogon-i-led.jpg"
+ },
+ {
+  "id": "v-sadu",
+  "title": "В саду",
+  "desc": "",
+  "added": "2026-10-29T06:18:00.000Z",
+  "kind": "image",
+  "file": "media/v-sadu.jpg"
+ },
+ {
+  "id": "piter-v-dushe",
+  "title": "Питер в душе",
+  "desc": "",
+  "added": "2026-10-29T06:19:00.000Z",
+  "kind": "image",
+  "file": "media/piter-v-dushe.jpg"
+ },
+ {
+  "id": "belye-nochi",
+  "title": "Белые ночи",
+  "desc": "",
+  "added": "2026-10-29T06:20:00.000Z",
+  "kind": "image",
+  "file": "media/belye-nochi.jpg"
+ },
+ {
+  "id": "piter-opochka",
+  "title": "Петербург — Опочка",
+  "desc": "",
+  "added": "2026-10-29T06:21:00.000Z",
+  "kind": "image",
+  "file": "media/piter-opochka.jpg"
+ },
+ {
+  "id": "s-fonarem",
+  "title": "С фонарём. 1812",
+  "desc": "",
+  "added": "2026-10-29T06:22:00.000Z",
+  "kind": "image",
+  "file": "media/s-fonarem.jpg"
+ },
+ {
+  "id": "s-fonarem-2",
+  "title": "В поле у Бородина",
+  "desc": "",
+  "added": "2026-10-29T06:23:00.000Z",
+  "kind": "image",
+  "file": "media/s-fonarem-2.jpg"
  }
 ]

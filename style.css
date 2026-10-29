@@ -175,3 +175,10 @@ html.splashing, html.splashing body { overflow: hidden; }
 .panel a { color: var(--glow); }
 .warn { font-size: 14px; color: #ffd38a; margin: 0; }
 .owner-bar { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+
+/* Фото — вертикальные карточки, чтобы портреты не обрезались */
+#grid-photo { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+#grid-photo .thumb { aspect-ratio: 4 / 5; }
+#grid-photo .thumb img { object-position: center 30%; }
+@media (max-width: 860px) { #grid-photo { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 560px) { #grid-photo { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px 14px; } #grid-photo .work h3 { font-size: 15px; } }
