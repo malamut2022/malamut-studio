@@ -491,5 +491,41 @@
   "added": "2026-10-29T06:23:00.000Z",
   "kind": "image",
   "file": "media/s-fonarem-2.jpg"
+ },
+ {
+  "id": "u-lampy",
+  "title": "У лампы",
+  "desc": "",
+  "added": "2026-10-29T06:31:00.000Z",
+  "kind": "image",
+  "file": "media/u-lampy.jpg"
+ },
+ {
+  "id": "italia",
+  "title": "Italia. La Dolce Vita",
+  "desc": "",
+  "added": "2026-10-29T06:32:00.000Z",
+  "kind": "image",
+  "file": "media/italia.jpg"
+ },
+ {
+  "id": "usadba",
+  "title": "Усадьба",
+  "desc": "",
+  "added": "2026-10-29T06:33:00.000Z",
+  "kind": "video",
+  "file": "media/usadba.mp4",
+  "poster": "media/usadba.jpg",
+  "duration": "0:10"
+ },
+ {
+  "id": "u-samovara",
+  "title": "У самовара",
+  "desc": "",
+  "added": "2026-10-29T06:34:00.000Z",
+  "kind": "video",
+  "file": "media/u-samovara.mp4",
+  "poster": "media/u-samovara.jpg",
+  "duration": "0:10"
  }
 ]
