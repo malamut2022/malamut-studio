@@ -222,7 +222,7 @@
   var EXPAND = '<span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></span>';
   var SECTIONS = ['video', 'projects', 'music', 'photo'];
   var EMPTY = { video: 'Скоро здесь появятся новые видео.', projects: 'Скоро здесь появятся тексты и проекты.', music: 'Скоро здесь появятся песни.', photo: 'Скоро здесь появятся фото и картинки.' };
-  function sectionOf(w) { return w.kind === 'video' ? 'video' : w.kind === 'audio' ? 'music' : w.kind === 'image' ? 'photo' : 'projects'; }
+  function sectionOf(w) { if (SECTIONS.indexOf(w.section) >= 0) return w.section; return w.kind === 'video' ? 'video' : w.kind === 'audio' ? 'music' : w.kind === 'image' ? 'photo' : 'projects'; }
 
   function render() {
     var edit = isEditing();

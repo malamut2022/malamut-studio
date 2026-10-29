@@ -248,5 +248,16 @@
   "file": "media/triumfalnaya-ploshchad.mp4",
   "poster": "media/triumfalnaya-ploshchad.jpg",
   "duration": "1:07"
+ },
+ {
+  "id": "volna",
+  "title": "VOLNA",
+  "desc": "Умная колонка в восьми стилях: от карандашного скетча до 3D",
+  "added": "2026-10-29T06:05:00.000Z",
+  "kind": "video",
+  "section": "projects",
+  "file": "media/volna.mp4",
+  "poster": "media/volna.jpg",
+  "duration": "0:46"
  }
 ]
