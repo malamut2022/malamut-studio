@@ -2086,5 +2086,27 @@
   "file": "media/buhgalterskie-tainy.mp4",
   "poster": "media/buhgalterskie-tainy.jpg",
   "duration": "0:57"
+ },
+ {
+  "id": "foto-v-kino",
+  "title": "Фото → кино",
+  "desc": "Новый образ: бизнесмен, капитан",
+  "added": "2026-10-29T19:47:00.000Z",
+  "kind": "video",
+  "section": "obrazy",
+  "file": "media/foto-v-kino.mp4",
+  "poster": "media/foto-v-kino.jpg",
+  "duration": "1:07"
+ },
+ {
+  "id": "v-kabinete",
+  "title": "В кабинете",
+  "desc": "",
+  "added": "2026-10-29T19:48:00.000Z",
+  "kind": "video",
+  "section": "obrazy",
+  "file": "media/v-kabinete.mp4",
+  "poster": "media/v-kabinete.jpg",
+  "duration": "0:28"
  }
 ]
