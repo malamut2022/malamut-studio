@@ -242,7 +242,7 @@
       b.addEventListener('click', function () { viewWork(w); });
       t.appendChild(b);
       card.appendChild(t);
-      var m = el('div', 'meta'); m.appendChild(el('span', null, KIND_LABEL[w.kind] || 'Работа')); m.appendChild(el('span', null, w.duration || fmtDate(w.added))); card.appendChild(m);
+      var m = el('div', 'meta'); m.appendChild(el('span', null, (w.kind === 'image' && w.section === 'projects') ? 'Плакат' : (KIND_LABEL[w.kind] || 'Работа'))); m.appendChild(el('span', null, w.duration || fmtDate(w.added))); card.appendChild(m);
       card.appendChild(el('h3', null, w.title));
       if (w.desc) card.appendChild(el('p', null, w.desc));
       card.appendChild(rxBar(w));

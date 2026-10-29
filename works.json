@@ -553,5 +553,86 @@
   "added": "2026-10-29T06:48:00.000Z",
   "kind": "image",
   "file": "media/zakat-s-zontikom.jpg"
+ },
+ {
+  "id": "kruzhka-malamut",
+  "title": "Термокружка MALAMUT",
+  "desc": "Карточка товара для маркетплейса",
+  "added": "2026-10-29T06:52:00.000Z",
+  "kind": "image",
+  "section": "projects",
+  "file": "media/kruzhka-malamut.jpg"
+ },
+ {
+  "id": "absolut-ice",
+  "title": "Absolut Ice Vodka",
+  "desc": "Концепт-плакат",
+  "added": "2026-10-29T06:53:00.000Z",
+  "kind": "image",
+  "section": "projects",
+  "file": "media/absolut-ice.jpg"
+ },
+ {
+  "id": "corona-detskaya",
+  "title": "Corona Детская",
+  "desc": "Шуточный концепт: вишнёвый компот",
+  "added": "2026-10-29T06:54:00.000Z",
+  "kind": "image",
+  "section": "projects",
+  "file": "media/corona-detskaya.jpg"
+ },
+ {
+  "id": "tapki-semya",
+  "title": "TAPKI. Для всей семьи",
+  "desc": "Концепт рекламы",
+  "added": "2026-10-29T06:55:00.000Z",
+  "kind": "image",
+  "section": "projects",
+  "file": "media/tapki-semya.jpg"
+ },
+ {
+  "id": "corona-detskaya-2",
+  "title": "Corona Детская. Вишнёвый компот",
+  "desc": "Шуточный концепт",
+  "added": "2026-10-29T06:56:00.000Z",
+  "kind": "image",
+  "section": "projects",
+  "file": "media/corona-detskaya-2.jpg"
+ },
+ {
+  "id": "tapki-ofis",
+  "title": "TAPKI. Офис",
+  "desc": "Концепт рекламы",
+  "added": "2026-10-29T06:57:00.000Z",
+  "kind": "image",
+  "section": "projects",
+  "file": "media/tapki-ofis.jpg"
+ },
+ {
+  "id": "bourbon",
+  "title": "Мягкий, насыщенный вкус",
+  "desc": "Концепт-плакат",
+  "added": "2026-10-29T06:58:00.000Z",
+  "kind": "image",
+  "section": "projects",
+  "file": "media/bourbon.jpg"
+ },
+ {
+  "id": "mindalnyi-sok",
+  "title": "Миндальный сок",
+  "desc": "Чёрный юмор в стиле 50-х",
+  "added": "2026-10-29T06:59:00.000Z",
+  "kind": "image",
+  "section": "projects",
+  "file": "media/mindalnyi-sok.jpg"
+ },
+ {
+  "id": "salikhanskie-morgi",
+  "title": "Салиханские морги",
+  "desc": "Чёрный юмор",
+  "added": "2026-10-29T06:60:00.000Z",
+  "kind": "image",
+  "section": "projects",
+  "file": "media/salikhanskie-morgi.jpg"
  }
 ]
