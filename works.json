@@ -2108,5 +2108,16 @@
   "file": "media/v-kabinete.mp4",
   "poster": "media/v-kabinete.jpg",
   "duration": "0:28"
+ },
+ {
+  "id": "petr-novyi-god",
+  "title": "Пётр: с Новым годом!",
+  "desc": "Новогоднее обращение",
+  "added": "2026-10-30T05:37:00.000Z",
+  "kind": "video",
+  "section": "pozdravleniya",
+  "file": "media/petr-novyi-god.mp4",
+  "poster": "media/petr-novyi-god.jpg",
+  "duration": "0:54"
  }
 ]
