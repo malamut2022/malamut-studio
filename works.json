@@ -2154,5 +2154,16 @@
     "file": "media/potok.mp4",
     "poster": "media/potok.jpg",
     "duration": "0:59"
+  },
+  {
+    "id": "privet-iz-ierusalima",
+    "title": "Привет из Иерусалима",
+    "desc": "Новый образ. Субтитры — русский и иврит",
+    "added": "2026-10-30T14:02:48.112053Z",
+    "kind": "video",
+    "section": "obrazy",
+    "file": "media/privet-iz-ierusalima.mp4",
+    "poster": "media/privet-iz-ierusalima.jpg",
+    "duration": "0:39"
   }
 ]
