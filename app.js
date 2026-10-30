@@ -236,8 +236,8 @@
   var WAVE = '<svg viewBox="0 0 120 60" fill="#9fd4ff" aria-hidden="true"><rect x="2" y="24" width="6" height="12" rx="3"/><rect x="14" y="16" width="6" height="28" rx="3"/><rect x="26" y="6" width="6" height="48" rx="3"/><rect x="38" y="18" width="6" height="24" rx="3"/><rect x="50" y="10" width="6" height="40" rx="3"/><rect x="62" y="2" width="6" height="56" rx="3"/><rect x="74" y="14" width="6" height="32" rx="3"/><rect x="86" y="8" width="6" height="44" rx="3"/><rect x="98" y="20" width="6" height="20" rx="3"/><rect x="110" y="26" width="6" height="8" rx="3"/></svg>';
   var PLAY = '<span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4l14 8-14 8z" fill="currentColor"/></svg></span>';
   var EXPAND = '<span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></span>';
-  var SECTIONS = ['video', 'projects', 'music', 'photo', 'obrazy', 'pozdravleniya'];
-  var EMPTY = { video: 'Скоро здесь появятся новые видео.', projects: 'Скоро здесь появятся тексты и проекты.', music: 'Скоро здесь появятся песни.', photo: 'Скоро здесь появятся фото и картинки.', obrazy: 'Скоро здесь появятся новые образы.', pozdravleniya: 'Скоро здесь появятся поздравления.' };
+  var SECTIONS = ['video', 'tainy', 'projects', 'music', 'photo', 'obrazy', 'pozdravleniya'];
+  var EMPTY = { video: 'Скоро здесь появятся новые видео.', projects: 'Скоро здесь появятся тексты и проекты.', music: 'Скоро здесь появятся песни.', photo: 'Скоро здесь появятся фото и картинки.', obrazy: 'Скоро здесь появятся новые образы.', pozdravleniya: 'Скоро здесь появятся поздравления.', tainy: 'Скоро здесь появятся новые выпуски.' };
   function sectionOf(w) { if (SECTIONS.indexOf(w.section) >= 0) return w.section; return w.kind === 'video' ? 'video' : w.kind === 'audio' ? 'music' : w.kind === 'image' ? 'photo' : 'projects'; }
 
   function render() {

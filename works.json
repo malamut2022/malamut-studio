@@ -2085,7 +2085,9 @@
     "kind": "video",
     "file": "media/buhgalterskie-tainy.mp4",
     "poster": "media/buhgalterskie-tainy.jpg",
-    "duration": "0:57"
+    "duration": "0:57",
+    "section": "tainy",
+    "order": 1
   },
   {
     "id": "foto-v-kino",
@@ -2128,7 +2130,9 @@
     "kind": "video",
     "file": "media/buhgalterskie-tainy-2.mp4",
     "poster": "media/buhgalterskie-tainy-2.jpg",
-    "duration": "1:15"
+    "duration": "1:15",
+    "section": "tainy",
+    "order": 2
   },
   {
     "id": "ya-tvoryu",
