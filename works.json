@@ -2079,7 +2079,7 @@
  },
  {
   "id": "buhgalterskie-tainy",
-  "title": "Бухгалтерские тайны",
+  "title": "Бухгалтерские тайны. Выпуск 1",
   "desc": "",
   "added": "2026-10-29T19:43:00.000Z",
   "kind": "video",
@@ -2119,5 +2119,15 @@
   "file": "media/petr-novyi-god.mp4",
   "poster": "media/petr-novyi-god.jpg",
   "duration": "0:54"
+ },
+ {
+  "id": "buhgalterskie-tainy-2",
+  "title": "Бухгалтерские тайны. Выпуск 2",
+  "desc": "",
+  "added": "2026-10-30T07:13:00.000Z",
+  "kind": "video",
+  "file": "media/buhgalterskie-tainy-2.mp4",
+  "poster": "media/buhgalterskie-tainy-2.jpg",
+  "duration": "1:15"
  }
 ]
