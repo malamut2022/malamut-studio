@@ -2144,10 +2144,9 @@
   {
     "id": "potok",
     "title": "Поток",
-    "desc": "Клип",
+    "desc": "",
     "added": "2026-10-30T09:57:25.918135Z",
     "kind": "video",
-    "section": "music",
     "file": "media/potok.mp4",
     "poster": "media/potok.jpg",
     "duration": "0:59"
