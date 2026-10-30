@@ -2165,5 +2165,17 @@
     "file": "media/privet-iz-ierusalima.mp4",
     "poster": "media/privet-iz-ierusalima.jpg",
     "duration": "0:39"
+  },
+  {
+    "id": "buhgalterskie-tainy-3",
+    "title": "Бухгалтерские тайны. Выпуск 3",
+    "desc": "",
+    "added": "2026-10-30T21:08:45.967342Z",
+    "kind": "video",
+    "section": "tainy",
+    "order": 3,
+    "file": "media/buhgalterskie-tainy-3.mp4",
+    "poster": "media/buhgalterskie-tainy-3.jpg",
+    "duration": "1:28"
   }
 ]
