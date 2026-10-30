@@ -2129,5 +2129,16 @@
   "file": "media/buhgalterskie-tainy-2.mp4",
   "poster": "media/buhgalterskie-tainy-2.jpg",
   "duration": "1:15"
+ },
+ {
+  "id": "ya-tvoryu",
+  "title": "Я творю",
+  "desc": "Клип",
+  "added": "2026-10-30T09:09:00.000Z",
+  "kind": "video",
+  "section": "music",
+  "file": "media/ya-tvoryu.mp4",
+  "poster": "media/ya-tvoryu.jpg",
+  "duration": "1:55"
  }
 ]
