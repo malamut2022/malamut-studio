@@ -52,10 +52,16 @@
       box.classList.add('gone');
       setTimeout(function () { box.remove(); }, 900);
     }
+    var skip = el('button', 'splash-skip', 'Пропустить');
+    skip.type = 'button'; skip.setAttribute('aria-label', 'Пропустить заставку');
+    skip.addEventListener('click', function (e) { e.stopPropagation(); finish(); });
+    box.appendChild(skip);
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !done) finish(); });
     v.addEventListener('ended', finish);
     v.addEventListener('error', finish);
     gate.addEventListener('click', function () {
       gate.remove();
+      box.classList.add('playing');
       v.muted = false; v.currentTime = 0;
       v.play().catch(finish);
       setTimeout(finish, 20000);

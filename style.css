@@ -139,6 +139,9 @@ footer .wrap { padding-block: 28px 40px; display: flex; justify-content: space-b
 .splash-enter { display: inline-flex; align-items: center; gap: 12px; padding: 16px 34px; border-radius: 999px; background: var(--glow); color: var(--night); font: 700 18px var(--f-display); letter-spacing: .04em; box-shadow: 0 0 60px rgba(159, 212, 255, .55); }
 .splash-enter svg { width: 18px; height: 18px; }
 .splash-hint { font-size: 14px; color: var(--frost); opacity: .8; }
+.splash-skip { position: absolute; z-index: 2; top: calc(18px + env(safe-area-inset-top, 0px)); right: 18px; padding: 10px 18px; border-radius: 999px; border: 1px solid rgba(255, 255, 255, .45); background: rgba(4, 6, 10, .45); color: #fff; font: 600 15px var(--f-display); letter-spacing: .03em; cursor: pointer; -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); }
+.splash-skip:hover { background: rgba(4, 6, 10, .7); border-color: #fff; }
+.splash-skip:focus-visible { outline: 2px solid var(--glow); outline-offset: 3px; }
 .splash-gate:focus-visible .splash-enter { outline: 2px solid var(--frost); outline-offset: 4px; }
 html.splashing, html.splashing body { overflow: hidden; }
 @media (orientation: portrait) { .splash video { object-fit: contain; } }
