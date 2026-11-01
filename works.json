@@ -2177,5 +2177,59 @@
     "file": "media/buhgalterskie-tainy-3.mp4",
     "poster": "media/buhgalterskie-tainy-3.jpg",
     "duration": "1:46"
+  },
+  {
+    "id": "lak-md",
+    "title": "Лак для волос MD",
+    "desc": "Концепт-плакат: фиксация, как у строительного клея",
+    "added": "2026-11-01T09:29:21.143268Z",
+    "kind": "image",
+    "section": "projects",
+    "file": "media/lak-md.jpg"
+  },
+  {
+    "id": "redbull-shampoo",
+    "title": "Red Bull. Детский шампунь",
+    "desc": "Концепт-плакат",
+    "added": "2026-11-01T09:29:20.143268Z",
+    "kind": "image",
+    "section": "projects",
+    "file": "media/redbull-shampoo.jpg"
+  },
+  {
+    "id": "muzhchiny-na-chas",
+    "title": "Мужчины на час",
+    "desc": "Концепт-плакат",
+    "added": "2026-11-01T09:29:19.143268Z",
+    "kind": "image",
+    "section": "projects",
+    "file": "media/muzhchiny-na-chas.jpg"
+  },
+  {
+    "id": "ooo-reshaly",
+    "title": "ООО «Решалы»",
+    "desc": "Концепт-плакат в стиле 90-х",
+    "added": "2026-11-01T09:29:18.143268Z",
+    "kind": "image",
+    "section": "projects",
+    "file": "media/ooo-reshaly.jpg"
+  },
+  {
+    "id": "playstation-poroshok",
+    "title": "PlayStation. Стиральный порошок",
+    "desc": "Концепт-плакат",
+    "added": "2026-11-01T09:29:17.143268Z",
+    "kind": "image",
+    "section": "projects",
+    "file": "media/playstation-poroshok.jpg"
+  },
+  {
+    "id": "snickers-mylo",
+    "title": "Snickers. Мыло",
+    "desc": "Концепт-плакат",
+    "added": "2026-11-01T09:29:16.143268Z",
+    "kind": "image",
+    "section": "projects",
+    "file": "media/snickers-mylo.jpg"
   }
 ]
